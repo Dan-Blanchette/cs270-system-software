@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Dan Blanchette
+echo this is the output of pwd:
+pwd
+echo this is the current date/time:
+date

@@ -1,0 +1,11 @@
+- Added a feature to tail that allows the user to specify the number of lines
+they want to read from the end of the file.
+
+implemented as the argv[2] argument of the command line,
+the function converts the base 10 number entered into
+the number lines desired.
+
+included is a test file for the feature rime.txt
+
+*BUG*
+will not report the very first line of a file but does not crash the program
